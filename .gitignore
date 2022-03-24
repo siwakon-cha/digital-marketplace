@@ -43,3 +43,5 @@ typechain
 cache
 artifacts
 .secret
+.idea
+yarn.lock
